@@ -1,0 +1,10 @@
+Hercules Pavon						1	Domitila	Juarez			
+54						2	Chimpandolfo 	Lopez		1	Soltero
+Casado						3	Hercules	Martinez		2	Casado
+						4	Romulo 	Velazques		3	Viudo
+						5	Remo	Morelos		4	Divorciado
+						6	Disney	Landia 			
+						7	LadyDi 	Pavon			
+						8	Alex	Plosivo			
+						9	Jeremias	Iturbuide			
+						10	Teofilo 	Zapata			
